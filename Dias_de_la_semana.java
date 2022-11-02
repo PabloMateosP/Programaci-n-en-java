@@ -1,4 +1,4 @@
-public class if_else {
+public class Dias_de_la_semana {
     public static void main(String[] args) {
         int dia=1; //
         if (dia==1){
