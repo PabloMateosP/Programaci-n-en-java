@@ -1,4 +1,4 @@
-public class Dias_de_la_semana_switch_forma_larga {
+public class Dias_de_la_semana_switch {
     public static void main(String[] args) {
         Integer dia=1;
         // Podríamos hacerlo de esta forma también: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
