@@ -15,9 +15,10 @@ public class Principal {
         System.out.println("Su nombre " + juanito.getName());
         System.out.println("Su edad: " + juanito.getAge());
         System.out.println("Su especie: " + juanito.getEspecie());
+
+
         System.out.println("Su nombre " + julian.getName());
         System.out.println("Su edad: " + julian.getAge());
         System.out.println("Su especie: " + julian.getEspecie());
-
     }
 }

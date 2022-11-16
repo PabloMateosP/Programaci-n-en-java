@@ -36,5 +36,4 @@ class Persona {
     void setAge (Integer age) {
         this.age = age;
     }
-
 }
